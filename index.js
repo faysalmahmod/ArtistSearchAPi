@@ -75,7 +75,7 @@ app.get('/artists/:name/output_file/:filename', (req, res) => {
           res.status(400).send('Unable to generate CSV file.')
         }
         fs.writeFileSync('./data/output/' + req.params.filename + '.csv', csv) //Writing the generated csv data to user specified csv filename.
-        //New search will result in deletion of previos artist data.It could also be preserved usng CSVWriter middleware.
+        //New search will result in deletion of previos artist data if file name is same.It could also be preserved using CSVWriter middleware.
         res
           .status(200)
           .send(
