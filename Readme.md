@@ -55,8 +55,11 @@ This server exposes the following REST API's:
 
 ![REST APi](https://iili.io/mNS3a2.md.png)
 - **GET `/ `**
+
   ![REST APi](https://iili.io/mNUgqJ.md.png)
+
 - **GET  `/artists/{name}/output_file/{filename}`**
+
   ![REST APi](https://iili.io/mNUr0v.png)
 
 ## Tests
