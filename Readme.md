@@ -54,6 +54,7 @@ This server exposes the following REST API's:
 
 
 ![REST APi](https://iili.io/mNS3a2.md.png)
+
 ---
 
 - **GET `/ `**
