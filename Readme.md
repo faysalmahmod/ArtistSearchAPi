@@ -5,7 +5,7 @@
 A simple Node JS REST API built using Express jS middleware which allows you to search artist details by the name of artist.
 If the artist searched is not available in data it will show some random artist names from list of available artists. If the searched artist is available his/her details will be presented as a csv file whose name must be specified by the user.
   
-
+---
 
 ## Features
 
