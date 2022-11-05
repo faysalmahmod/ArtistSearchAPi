@@ -21,6 +21,15 @@ If the artist searched is not available in data it will show some random artist 
 
 ## Requirements
 - Node.JS installed 
+
+- **Parameters**
+
+Parameter| Required | Description
+---------| -------- | 
+Name     | Yes      | Name of artist to search
+filename | Yes      | Name of output CSV file to store reesult in.
+
+
 ## Run Locally
 
 Clone the project
@@ -55,7 +64,7 @@ This server exposes the following REST API's:
 
 ![REST APi](https://iili.io/mNS3a2.md.png)
 
----
+
 
 - **GET `/ `**
 
@@ -67,8 +76,14 @@ This server exposes the following REST API's:
 
 ---
 
+## Example URL
+
+```http://localhost:8080/artists/John%20Williams/output_file/output```
+
 ## Tests
 ![Test result](https://iili.io/mNbH21.png)
+
+
 
 
 ## Known Issue
