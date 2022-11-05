@@ -1,0 +1,44 @@
+[
+    {
+        "name": "coldplay",
+        "mbid": "cc197bad-dc9c-440d-a5b5-d52ba2e14234",
+        "url": "https://musicbrainz.org/artist/cc197bad-dc9c-440d-a5b5-d52ba2e14234",
+        "image_small": "https://i.postimg.cc/WbfKLvjc/Coldplay.jpg",
+        "image": "https://i.postimg.cc/1X1mKqCM/Coldplay.jpg"
+    },
+    {
+        "name": "John Williams",
+        "mbid": "86437518-fca1-4117-b698-b371b72d76a5",
+        "url": "https://musicbrainz.org/artist/86437518-fca1-4117-b698-b371b72d76a5",
+        "image_small": "https://i.postimg.cc/cHpRx0Bg/Klassik-Radio-John-Williams.jpg",
+        "image": "https://i.postimg.cc/T3tnyrcX/Klassik-Radio-John-Williams.jpg"
+    },
+    {
+        "name": "Pink Floyd",
+        "mbid": "83d91898-7763-47d7-b03b-b92132375c47",
+        "url": "https://musicbrainz.org/artist/83d91898-7763-47d7-b03b-b92132375c47",
+        "image_small": "https://i.postimg.cc/T3ppdB7h/41-J5nt-Wv-ASL-SL1000.jpg",
+        "image": "https://i.postimg.cc/brywK5Sy/41-J5nt-Wv-ASL-SL1000.jpg"
+    },
+    {
+        "name": "Bill Porter",
+        "mbid": "cc197bad-dc9c-440d-a5b5-d52ba2e14234",
+        "url": "https://musicbrainz.org/artist/cc197bad-dc9c-440d-a5b5-d52ba2e14234",
+        "image_small": "https://i.postimg.cc/3wx9xrMm/bill-porter.jpg",
+        "image": "https://i.postimg.cc/zGSPfPyZ/bill-porter.jpg"
+    },
+    {
+        "name": "Seattle Symphony",
+        "mbid": "0b51c328-1f2b-464c-9e2c-0c2a8cce20ae",
+        "url": "https://musicbrainz.org/artist/0b51c328-1f2b-464c-9e2c-0c2a8cce20ae",
+        "image_small": "https://i.postimg.cc/CMk2t1wx/seattlesymphony.jpg",
+        "image": "https://i.postimg.cc/qR99K609/seattlesymphony.jpg"
+    },
+    {
+        "name": "Snoop Dogg",
+        "mbid": "f90e8b26-9e52-4669-a5c9-e28529c47894",
+        "url": "https://musicbrainz.org/artist/f90e8b26-9e52-4669-a5c9-e28529c47894",
+        "image_small": "https://i.postimg.cc/FRBhBKvZ/snoop-dogg-1.jpg",
+        "image": "https://i.postimg.cc/1tf8t25v/snoop-dogg-1.jpg"
+    }
+]
