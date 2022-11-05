@@ -54,6 +54,8 @@ This server exposes the following REST API's:
 
 
 ![REST APi](https://iili.io/mNS3a2.md.png)
+---
+
 - **GET `/ `**
 
   ![REST APi](https://iili.io/mNUgqJ.md.png)
@@ -62,12 +64,14 @@ This server exposes the following REST API's:
 
   ![REST APi](https://iili.io/mNUr0v.png)
 
+---
+
 ## Tests
 ![Test result](https://iili.io/mNbH21.png)
 
 
 ## Known Issue
-Currently there's no known issues. If you find any, contact.
+Currently there's no known issue. If you find any, contact.
 ## Authors
 
 - [Faisal Mahmood](https://github.com/faysalmahmod)
