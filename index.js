@@ -65,7 +65,7 @@ app.get('/artists/:name/output_file/:filename', (req, res) => {
   try {
     const found = artists.find(
       art => art.name.toLowerCase() === req.params.name.toLowerCase()
-    ) ///////Searching for artist via name matching retrieved through URL provided by user
+    ) ///////Searching for artist via name matching, retrieved through URL provided by user
 
     if (found) {
       /////////if Artist with required named is found
