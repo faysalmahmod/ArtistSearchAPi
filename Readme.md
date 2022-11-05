@@ -22,12 +22,14 @@ If the artist searched is not available in data it will show some random artist 
 ## Requirements
 - Node.JS installed 
 
-- **Parameters**
+## Parameters
 
-Parameter| Required | Description
----------| -------- | 
-Name     | Yes      | Name of artist to search
-filename | Yes      | Name of output CSV file to store reesult in.
+
+| Parameter | Required   | Description                |
+| :-------- | :------- | :------------------------- |
+| `name` | `YES` | Name of artist to search |
+| `filename` | `YES` | Name of output CSV file to store reesult in.|
+
 
 
 ## Run Locally
